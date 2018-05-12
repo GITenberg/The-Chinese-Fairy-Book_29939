@@ -1,0 +1,30 @@
+_repo: The-Chinese-Fairy-Book_29939
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wilhelm, Richard
+    birthdate: 1873
+    deathdate: 1930
+    gutenberg_agent_id: '34257'
+    url: http://www.gutenberg.org/2009/agents/34257
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Wilhelm
+description: ''
+gutenberg_issued: '2009-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29939'
+  lccn: '21018125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- China'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- China'
+title: The Chinese Fairy Book
+url: http://www.gutenberg.org/ebooks/29939
